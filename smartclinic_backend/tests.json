@@ -1,0 +1,452 @@
+{
+  "26.11.2019": [
+    {
+      "name": "Demir bağlama kapasitesi\n(UIBC)",
+      "result": "499",
+      "range": "110-370",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Trombosit (PLT)",
+      "result": "159",
+      "range": "150-400",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Toplam lökosit sayısı (WBC)",
+      "result": "7.56",
+      "range": "3.8-10",
+      "isOutOfRange": false
+    },
+    {
+      "name": "PDW",
+      "result": "21.2",
+      "range": "9-20",
+      "isOutOfRange": true
+    },
+    {
+      "name": "PCT",
+      "result": "0.21",
+      "range": "0.15-0.40",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Ortalama trombosit hacmi\n(MPV)",
+      "result": "12.9",
+      "range": "7.8-13",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Ortalama eritrosit hgb(MCH)",
+      "result": "24.6",
+      "range": "27-34",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Ortalama eritrosit hacmi (MCV)",
+      "result": "77.5",
+      "range": "80-95",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Ort.eritrosit hgb. kons.(MCHC)",
+      "result": "31.7",
+      "range": "31-37",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Nötrofil Yüzdesi (NE%)",
+      "result": "68",
+      "range": "45-78",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Nötrofil Sayısı (NE#)",
+      "result": "5.14",
+      "range": "2.3-6.7",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Monosit Yüzdesi (MO%)",
+      "result": "9.8",
+      "range": "3-12",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Monosit Sayısı (MO#)",
+      "result": "0.74",
+      "range": "0.4-0.9",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Lenfosit Yüzdesi (LY%)",
+      "result": "21.3",
+      "range": "10-48",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Lenfosit Sayısı (LY#)",
+      "result": "1.61",
+      "range": "0.8-3.2",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Hemoglobin (HGB)",
+      "result": "10.4",
+      "range": "11.5-15.5",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Hematokrit (HCT)",
+      "result": "32.8",
+      "range": "35.5-48",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Eritrosit dağ. gen. (RDW%)",
+      "result": "14.0",
+      "range": "11.2-15",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Eritrosit (RBC)",
+      "result": "4.23",
+      "range": "3.8-5.6",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Eozinofil Yüzdesi (EO%)",
+      "result": "0.8",
+      "range": "0-7",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Eozinofil Sayısı (EO#)",
+      "result": "0.06",
+      "range": "0-0.2",
+      "isOutOfRange": false
+    }
+  ],
+  "23.11.2025": [
+    {
+      "name": "Bazofil Yüzdesi (BA%)",
+      "result": "0.1",
+      "range": "0-1",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Bazofil Sayısı (BA#)",
+      "result": "0.01",
+      "range": "0-0.1",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Total Demir Bağlama\nKap.(TDBK)",
+      "result": "532",
+      "range": "250-425",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Demir (Fe)",
+      "result": "33",
+      "range": "50-170",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Ferritin (FERR)",
+      "result": "4.76",
+      "range": "13-150",
+      "isOutOfRange": true
+    },
+    {
+      "name": "FOLAT",
+      "result": "1.97",
+      "range": "3.89-26.8",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Glukoz",
+      "result": "84",
+      "range": "70-100",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Üre",
+      "result": "12",
+      "range": "10-50",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Kreatinin (CREA)",
+      "result": "0.41",
+      "range": "0.5-0.9",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Serbest T3 (FT3)",
+      "result": "2.66",
+      "range": "2.03-4.44",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Serbest T4 (FT4)",
+      "result": "1.14",
+      "range": "0.93-1.71",
+      "isOutOfRange": false
+    },
+    {
+      "name": "TSH",
+      "result": "2.32",
+      "range": "0.27-4.2",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Vitamin B12",
+      "result": "189",
+      "range": "197-771",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Alkalen fosfataz (ALP)",
+      "result": "58",
+      "range": "35-104",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Demir bağlama kapasitesi\n(UIBC)",
+      "result": "384",
+      "range": "110-370",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Trombosit (PLT)",
+      "result": "195",
+      "range": "150-400",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Toplam lökosit sayısı (WBC)",
+      "result": "8.42",
+      "range": "3.8-10",
+      "isOutOfRange": false
+    },
+    {
+      "name": "PDW",
+      "result": "19.8",
+      "range": "9-20",
+      "isOutOfRange": false
+    },
+    {
+      "name": "PCT",
+      "result": "0.25",
+      "range": "0.15-0.40",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Ortalama trombosit hacmi\n(MPV)",
+      "result": "13.0",
+      "range": "7.8-13",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Ortalama eritrosit hgb(MCH)",
+      "result": "26.3",
+      "range": "27-34",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Ortalama eritrosit hacmi (MCV)",
+      "result": "79.2",
+      "range": "80-95",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Ort.eritrosit hgb. kons.(MCHC)",
+      "result": "33.2",
+      "range": "31-37",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Nötrofil Yüzdesi (NE%)",
+      "result": "74",
+      "range": "45-78",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Nötrofil Sayısı (NE#)",
+      "result": "6.22",
+      "range": "2.3-6.7",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Monosit Yüzdesi (MO%)",
+      "result": "7.5",
+      "range": "3-12",
+      "isOutOfRange": false
+    }
+  ],
+  "25.11.2025": [
+    {
+      "name": "Monosit Sayısı (MO#)",
+      "result": "0.63",
+      "range": "0.4-0.9",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Lenfosit Yüzdesi (LY%)",
+      "result": "17.6",
+      "range": "10-48",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Lenfosit Sayısı (LY#)",
+      "result": "1.48",
+      "range": "0.8-3.2",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Hemoglobin (HGB)",
+      "result": "11.0",
+      "range": "11.5-15.5",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Hematokrit (HCT)",
+      "result": "33.1",
+      "range": "35.5-48",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Eritrosit dağ. gen. (RDW%)",
+      "result": "13.8",
+      "range": "11.2-15",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Eritrosit (RBC)",
+      "result": "4.18",
+      "range": "3.8-5.6",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Eozinofil Yüzdesi (EO%)",
+      "result": "1.0",
+      "range": "0-7",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Eozinofil Sayısı (EO#)",
+      "result": "0.08",
+      "range": "0-0.2",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Bazofil Yüzdesi (BA%)",
+      "result": "0.1",
+      "range": "0-1",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Bazofil Sayısı (BA#)",
+      "result": "0.01",
+      "range": "0-0.1",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Alanin aminotransferaz (ALT)",
+      "result": "9",
+      "range": "10-33",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Aspartat transaminaz (AST)",
+      "result": "12",
+      "range": "0-32",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Total Demir Bağlama\nKap.(TDBK)",
+      "result": "459",
+      "range": "250-425",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Demir (Fe)",
+      "result": "75",
+      "range": "50-170",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Ferritin (FERR)",
+      "result": "8.29",
+      "range": "13-150",
+      "isOutOfRange": true
+    },
+    {
+      "name": "FOLAT",
+      "result": "2.73",
+      "range": "3.89-26.8",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Gamma glutamil transferaz\n(GGT)",
+      "result": "7",
+      "range": "5-36",
+      "isOutOfRange": false
+    },
+    {
+      "name": "HbA1c%",
+      "result": "4.3",
+      "range": "4.8-5.9",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Gluko test (Hastabaşı,\nglukometrik)",
+      "result": "126",
+      "range": "-",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Glukoz",
+      "result": "78",
+      "range": "70-100",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Üre",
+      "result": "14",
+      "range": "10-50",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Kreatinin (CREA)",
+      "result": "0.43",
+      "range": "0.5-0.9",
+      "isOutOfRange": true
+    },
+    {
+      "name": "Serbest T4 (FT4)",
+      "result": "1.09",
+      "range": "0.93-1.71",
+      "isOutOfRange": false
+    },
+    {
+      "name": "TSH",
+      "result": "2.61",
+      "range": "0.27-4.2",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Vitamin B12",
+      "result": "221",
+      "range": "197-771",
+      "isOutOfRange": false
+    },
+    {
+      "name": "Beta-HCG (Total HCG)",
+      "result": "> 10000",
+      "range": "-",
+      "isOutOfRange": false
+    }
+  ]
+}
