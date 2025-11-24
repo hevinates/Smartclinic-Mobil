@@ -1,4 +1,4 @@
-# SmartClinic Mobil Uygulaması (Flutter)
+# SmartClinic Mobil Uygulaması
 
 Bu proje, **SmartClinic** ekosisteminin Flutter ile geliştirilmiş **mobil uygulama** kısmını içermektedir. Uygulama hem **hasta** hem de **doktor** kullanıcıları için tasarlanmış olup, modern bir sağlık yönetim sistemi sunar.
 
