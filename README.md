@@ -131,6 +131,7 @@ flutter run
 ## 👩‍💻 Geliştirici
 
 **Hevin Ateş**
+
 Flutter & .NET Entegrasyon Geliştiricisi
 
 ---
