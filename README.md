@@ -23,9 +23,6 @@
 - [Proje Yapısı](#-proje-yapısı)
 - [Kullanılan Teknolojiler](#-kullanılan-teknolojiler)
 - [Backend API](#-backend-api)
-- [Ekran Görüntüleri](#-ekran-görüntüleri)
-- [Katkıda Bulunma](#-katkıda-bulunma)
-- [Lisans](#-lisans)
 - [İletişim](#-iletişim)
 
 ---
