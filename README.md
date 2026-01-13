@@ -8,7 +8,7 @@
 
 **Hastalar ve doktorlar için geliştirilmiş, yapay zeka destekli modern sağlık yönetim uygulaması.**
 
-[Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [Ekran Görüntüleri](#-ekran-görüntüleri) • [Teknolojiler](#-kullanılan-teknolojiler) • [API](#-backend-api) • [Katkıda Bulunma](#-katkıda-bulunma)
+[Özellikler](#-özellikler) • [Kurulum](#-kurulum)  • [Teknolojiler](#-kullanılan-teknolojiler) • [API](#-backend-api) 
 
 </div>
 
