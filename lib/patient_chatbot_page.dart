@@ -29,7 +29,7 @@ class _PatientChatbotPageState extends State<PatientChatbotPage> {
   Map<String, dynamic>? _patientProfile;
 
   // Gemini API
-  static const String _apiKey = 'AIzaSyBxWGsAhDPWRhG2BXsdyuc8Fi0S-9e6hck'; // API KEY BURAYA
+  static const String _apiKey = 'YOUR_API_KEY'; // Buraya kendi API Key'inizi eklemelisiniz.
   late final GenerativeModel _model;
   late final ChatSession _chat;
 
