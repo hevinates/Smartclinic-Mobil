@@ -4,7 +4,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.9.2-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.9.2-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Desktop-lightgrey?style=for-the-badge)
 
 **Hastalar ve doktorlar için geliştirilmiş, yapay zeka destekli modern sağlık yönetim uygulaması.**
@@ -282,23 +281,6 @@ POST   /api/TestResult                  # Tahlil ekle
 Katkılarınızı memnuniyetle karşılıyoruz! 
 
 
-
-## 📄 Lisans
-
-Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-```
-MIT License
-
-Copyright (c) 2024-2026 SmartClinic
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
-
 ---
 
 ## 📞 İletişim
@@ -309,7 +291,6 @@ copies of the Software...
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hevinates)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hevinates)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hevinates@gmail.com)
 
 </div>
 
